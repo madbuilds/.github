@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 📘 Code Review with Emoji Legend— Quick Guide
+# 📘 Code Review with Emoji — Quick Guide Legend
 Emoji is a quick and intuitive way to show the main theme of a message.
 As Emoji tells a lot, it's a good practice to use it during code review/comments.
 
